@@ -8,3 +8,6 @@
 
      all the for my merge conlicts
 
+     THis is file for more info
+
+
